@@ -1,1 +1,1 @@
-Maven project
+Mobile Provider Contract Managment App
